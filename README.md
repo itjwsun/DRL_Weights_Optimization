@@ -1,1 +1,4 @@
-# DRL_Weights_Optimization
+- ddpg.py: 该脚本实现了DDPG算法
+- models_prediction_result.py: 该脚本实现了6个基础模型的构建及预测，包括RF、SVM、XGBoost、DNN、LSTM、GRU
+- weights_env.py: 该脚本搭建了权重优化环境
+- run_this.py: 该脚本是程序入口，用于实现环境和智能体交互
